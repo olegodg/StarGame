@@ -10,7 +10,7 @@ import com.badlogic.gdx.utils.ScreenUtils;
 import ru.geekbrains.Base.BaseScreen;
 
 public class MenuScreen extends BaseScreen {
-    private static final float vectorLen=0.7f;
+    private static final float vectorLen=0.6f;
     Texture img;
     private Vector2 possition;
     private Vector2 speed;
